@@ -5,6 +5,19 @@ Inspired by Sparkbox's awesome article on [semantic commit messages](http://sees
 ## What is this?
 These are **very simple** custom git commands that enforce the git user to write better git commit messages. If still confused, read the article above.
 
+# Commit emojis
+
+| emoji | code | description |
+|:-----:|------|-------------|
+| :construction_worker: | `:construction_worker:` | chore |
+| :memo: | `:memo:` | docs |
+| :heavy_plus_sign: | `:heavy_plus_sign:` | feat |
+| :beetle: | `:beetle:` | fix |
+| :map: | `:map:` | localize |
+| :hammer_and_wrench: | `:hammer_and_wrench:` | refactor |
+| :lipstick: | `:lipstick:` | style |
+| :space_invader: | `:space_invader:` | test |
+
 ## Installation:
 
 1. Clone this repo, preferably in your $HOME directory. ```git clone https://github.com/fteem/git-semantic-commits ~/.git-semantic-commits```
